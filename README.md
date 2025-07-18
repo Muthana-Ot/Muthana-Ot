@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AlMuthana AlOthman and I'm a Software Developer and Automation Specialist!!</h2>
+<h2 align="left">Hi 👋! My name is AlMuthana AlOthman and I'm a Software Developer and Automation Specialist</h2>
 
 ###
 

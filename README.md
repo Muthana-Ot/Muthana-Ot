@@ -66,14 +66,6 @@ I enjoy working across the stack — from designing REST APIs and distributed sy
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muthana-Ot&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muthana-Ot&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
-</div>
-
----
-
 ### 🤝 Let’s Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/almuthana-alothman-3339b52b1/" target="_blank">

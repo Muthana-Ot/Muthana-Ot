@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm AlMuthana AlOthman</h1>
 
 <p align="center">
-  <b>Software Developer | Automation Specialist | AI Enthusiast</b><br/>
-  Passionate about building efficient, scalable, and intelligent systems that automate workflows and create meaningful digital experiences.
+  <b>Software Developer | Automation Specialist</b><br/>
 </p>
 
 ---

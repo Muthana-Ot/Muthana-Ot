@@ -1,16 +1,18 @@
-<h1 align="center">👋 Hi, I'm AlMuthana AlOthman</h1>
+<h1 align="center">👋 Hi, I’m AlMuthana AlOthman</h1>
 
 <p align="center">
-  <b>Software Developer | Automation Specialist</b><br/>
+  <b>Full-Stack Software Engineer | SaaS & Microservices</b><br/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m a **Software Developer and Automation Specialist** with a passion for **AI-driven automation**, **cross-platform app development**, and **backend architecture**.  
+I’m a **Full-Stack Software Engineer** with hands-on experience building **production SaaS platforms from scratch**, designing **microservices architectures**, and integrating **AI-driven automation** into real-world systems.
 
-I enjoy working across the stack — from designing REST APIs and distributed systems to creating seamless mobile and web experiences.
+I take ownership end-to-end — from system architecture and API design to business logic, third-party integrations, and cloud deployment. My stack spans **React**, **Flutter**, **Node.js**, **Python/Flask**, and event-driven systems with **RabbitMQ**, **Celery**, and **Redis**.
+
+I’ve also worked with **RAG pipelines**, **LLM integration**, and **prompt engineering** to build reliable, context-aware AI services. I hold a BSc in Computer Science from Lebanese International University with a **3.9 GPA** and five consecutive Honor List recognitions.
 
 ---
 
